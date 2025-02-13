@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1735647010 source:d:\data structure & agorithms\dsa lab\main.c
+	<stdio.h>
+
+1736436218 source:d:\data structure & agorithms\dsa lab\hw5.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
