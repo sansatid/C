@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
-
+//hi changggg
 typedef struct
 {
   int *que, front, rear, size, Max;
